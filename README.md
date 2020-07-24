@@ -1,7 +1,8 @@
 # Hi, I'm Khursheed 👋🏾 👩🏾‍💻
 
 <img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Banner that express my work">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.
+
+I'm a software engineer who is passionate about making Websites, Developing Mobile Applications. Some technologies I enjoy working with include JavaScripts, Node.js, SASS,HTML5, CSS3, Python and C.
 
 
 ## Find me around the web 🌎:
