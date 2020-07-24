@@ -1,6 +1,6 @@
 # Hi, I'm Khursheed 👋🏾 👩🏾‍💻
 
-<img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="Banner that express my work">
+<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" alt="Banner that express my work">
 
 I'm a software engineer who is passionate about making Websites, Developing Mobile Applications. Some technologies I enjoy working with include JavaScripts, Node.js, SASS,HTML5, CSS3, Python and C.
 
@@ -14,9 +14,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source Projects
 - 🤔 I’m looking for help with Node.js backend connectivity.
 - 💬 Ask me about Developing 
-- 📫 How to reach me: 
-LinkedIn : https://linkedin.com/in/khursheed33
-Website : http://khursheed33.epizy.com
-Instagram : https://instagram.com/__chaudhary33
+- 📫 How to reach me: * LinkedIn : https://linkedin.com/in/khursheed33 | * Website : http://khursheed33.epizy.com | * Instagram : https://instagram.com/__chaudhary33
 
+______________________________________________________________________________________
+![github stats](https://github-readme-stats.vercel.app/api?username=chaudhary33&show_icons=true)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chaudhary33.chaudhary33) 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> Khursheed Chaudhary
+
+⭐️ From [chaudhary33](http://www.github.com/chaudhary33)
