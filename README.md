@@ -1,6 +1,6 @@
 # Hi, I'm Khursheed 👋🏾 👩🏾‍💻
 
-<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" alt="Banner that express my work">
+<img src="https://drive.google.com/drive/u/0/folders/1N2wAGH4jxw2nzk2mv7GXqcA_HOpPcyh0" alt="Banner that express my work">
 
 I'm a software engineer who is passionate about making Websites, Developing Mobile Applications. Some technologies I enjoy working with include JavaScripts, Node.js, SASS,HTML5, CSS3, Python and C.
 
