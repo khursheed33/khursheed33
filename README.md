@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Full-Stack Development.
 - 🌱 Willing to learn MERN stack.
 - 👯 I’m looking to collaborate on Open-source Projects.
-- 🤔 Actively looking for new startup.
+- 🤔 Actively looking for new Opportunities with innovative challenges.
 - 💬 Ask me about Developing.
 - 📫 How to reach me: <br/>* LinkedIn : https://linkedin.com/in/khursheed33 <br/>* Website : http://khursheed33.epizy.com<br/>* Instagram : https://instagram.com/__chaudhary33
 
