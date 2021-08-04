@@ -1,4 +1,4 @@
-# Hi, I'm Khursheed 👋🏾 👩🏾‍💻
+# Hi, I'm Khursheed 👋🏾 👨‍ 🎓👨🏻‍💻
 
 <img src="https://images.unsplash.com/photo-1550439062-609e1531270e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="Banner that express my work">
 
@@ -7,9 +7,9 @@ I'm a software engineer who is passionate about making High Performance Applicat
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/khursheed33/">LinkedIn</a> 💼
-- Sources of my Work <a href="https://github.com/khursheed33/khursheed33">Github</a> 
-- Coding at <a href="https://www.hackerrank.com/khursheed33">HackerRank</a>
-- Sharing Work and Tech at <a href="https://www.instagram.com/flutterians/">Instagram</a>
+- Sources of my Work <a href="https://github.com/khursheed33/khursheed33">Github</a>  <img src="https://cdn.iconscout.com/icon/free/png-512/github-154-675675.png" alt"Github icon">
+- Coding at <a href="https://www.hackerrank.com/khursheed33">HackerRank</a>👨‍💻
+- Sharing Work and Tech at <a href="https://www.instagram.com/flutterians/">Instagram</a>😎
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter Full-Stack Development.
