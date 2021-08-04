@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 🤔 Actively looking for new startup.
 - 💬 Ask me about Developing 
-- 📫 How to reach me: * LinkedIn : https://linkedin.com/in/khursheed33 | * Website : http://khursheed33.epizy.com | * Instagram : https://instagram.com/__chaudhary33
+-## 📫 How to reach me: 
+* LinkedIn : https://linkedin.com/in/khursheed33 <br/> * Website : http://khursheed33.epizy.com<br/> * Instagram : https://instagram.com/__chaudhary33
 
 ______________________________________________________________________________________
 ![github stats](https://github-readme-stats.vercel.app/api?username=khursheed33&show_icons=true)
@@ -27,4 +28,4 @@ ________________________________________________________________________________
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Khursheed Gaddi
 
-⭐️ From [chaudhary33](http://www.github.com/khursheed33)
+⭐️ From [Khursheed Gaddi](http://www.github.com/khursheed33)
