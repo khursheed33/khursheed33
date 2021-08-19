@@ -7,7 +7,7 @@ I'm a software engineer who is passionate about making High Performance Applicat
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/khursheed33/">LinkedIn</a> 💼
-- Sources of my Work <a href="https://github.com/khursheed33/khursheed33">Github</a>  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_960_720.png"  height="20" width="20" alt="Github Icon">
+- Sources of my Work <a href="https://github.com/khursheed33/khursheed33">Github</a>
 - Coding at <a href="https://www.hackerrank.com/khursheed33">HackerRank</a>👨‍💻
 - Sharing Work and Tech at <a href="https://www.instagram.com/flutterians/">Instagram</a>😎
 Here are some ideas to get you started:
