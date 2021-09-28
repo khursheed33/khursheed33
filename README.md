@@ -35,35 +35,31 @@
 ---
 
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Actions</b></td>
-    <td><b style="font-size:30px">Analytics</b></td>
- </tr>
- <tr>
-    <td>
-     
-      <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!-- [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]() -->
+[![C](https://img.shields.io/badge/C-008AD3?style=for-the-badge&logo=c&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-008AD3?style=for-the-badge&logo=python&logoColor=yellow)]()
 
-```text
-🌞 Morning    169 commits      41.73% 
-🌆 Daytime    153 commits   37.78% 
-🌃 Evening    2 commits       0.49% 
-🌙 Night      81 commits     20.0%
+[![Flutter](https://img.shields.io/badge/Flutter-008AD3?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Dart](https://img.shields.io/badge/Dart-008AD3?style=for-the-badge&logo=dart&logoColor=white)]()
 
-```
-  
-  </td>
-    <td>
-![github stats](https://github-readme-stats.vercel.app/api?username=khursheed33&show_icons=true)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
+<!-- [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]() -->
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+<!-- [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]() -->
+<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]() -->
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![Fork](https://img.shields.io/badge/Fork-F05032?style=for-the-badge&logo=fork&logoColor=white)]()
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=khursheed33.khursheed33) 
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+[![VSCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![Android-Studio](https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=androidstudio&logoColor=white)]()
 
-  
-  </td>
- </tr>
-</table>
+---
+
 
 
 
@@ -90,31 +86,36 @@
 <!--END_SECTION:waka-->
 
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Actions</b></td>
+    <td><b style="font-size:30px">Analytics</b></td>
+ </tr>
+ <tr>
+    <td>
+     
+  
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    169 commits      41.73% 
+🌆 Daytime    153 commits   37.78% 
+🌃 Evening    2 commits       0.49% 
+🌙 Night      81 commits     20.0%
+
+```
+  
+  </td>
+    <td>
+![github stats](https://github-readme-stats.vercel.app/api?username=khursheed33&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=khursheed33.khursheed33) 
+
+  
+  </td>
+ </tr>
+</table>
 ---
-
-
-<!-- [![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]() -->
-[![C](https://img.shields.io/badge/C-008AD3?style=for-the-badge&logo=c&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-008AD3?style=for-the-badge&logo=python&logoColor=yellow)]()
-
-[![Flutter](https://img.shields.io/badge/Flutter-008AD3?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![Dart](https://img.shields.io/badge/Dart-008AD3?style=for-the-badge&logo=dart&logoColor=white)]()
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
-<!-- [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)]() -->
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-<!-- [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]() -->
-<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]() -->
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Fork](https://img.shields.io/badge/Fork-F05032?style=for-the-badge&logo=fork&logoColor=white)]()
-
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/vsCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Android-Studio](https://img.shields.io/badge/Android-blue?style=for-the-badge&logo=androidstudio&logoColor=white)]()
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
