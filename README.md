@@ -75,12 +75,12 @@
  Node.js
  Express
  
- <ul><li>Databases:</li></ul><br>
+Databases:
  MongoDB
  Firebase
  SQLite
- 
-  <ul><li>Additional:</li></ul><br>
+
+Additional:
   JSON Serialization
   Git
   GitHub
