@@ -4,7 +4,8 @@
 
 ## I'm a Flutter Developer - upcoming MERN stack Developer
 
- I'm a software engineer who is passionate about making High Performance Application using Flutter, Some technologies I enjoy working with include JavaScripts, Node.js, PHP, HTML5, CSS3, Bootstrap4/5, Python and C.
+ I'm a software engineer who is passionate about making High Performance Application using Flutter, Some technologies I enjoy working with include Node.js, Python, Flutter, Dart, MongoDB, Firebase.
+ 
 
 
 - 🌱 I am currently learning more about MERN stack development.
@@ -69,20 +70,30 @@
 ```text
 ⌚︎ Time Zone: Mumbai / New Delhi
 
-💬 Programming Languages: 
+💬 Programming Languages </> and Frameworks: 
  Dart with Flutter
  Node.js
  Express
+ 
+ <ul><li>Databases:</li></ul><br>
  MongoDB
-
-🔥 Editors: 
+ Firebase
+ SQLite
+ 
+  <ul><li>Additional:</li></ul><br>
+  JSON Serialization
+  Git
+  GitHub
+  
+  
+🔥 Editors and Tools: 
  VS Code
  Android Studio
+ Fork
 
 ```
 
-
- Last Updated on 28/09/2021
+ Last Updated on 31/03/2022
 <!--END_SECTION:waka-->
 
 
