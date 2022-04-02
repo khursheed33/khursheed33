@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Flutter Developer
+## I'm a Flutter Full Stack Developer
 
  I'm a software engineer who is passionate about making High Performance Application using Flutter, Some technologies I enjoy working with include Node.js, Python, Flutter, Dart, MongoDB, Firebase.
  
